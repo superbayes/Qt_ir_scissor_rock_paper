@@ -7,6 +7,7 @@ Rock Paper Scissors recognition based on infrared camera(基于红外相机的�
 * opencv 4.5.2
 * nanodet
 * ncnn
+* Vulkan 1.2.198.1
 * USB相机(flir lepton 红外模组,分辨率160*120)
 * windows10
 
